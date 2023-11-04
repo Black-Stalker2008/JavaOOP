@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6585d0e-e31c-46a0-909d-f611df528156" name="Changes" comment="HW4">
+    <list default="true" id="b6585d0e-e31c-46a0-909d-f611df528156" name="Changes" comment="HW5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HW5.Main">
+  <component name="RunManager" selected="Application.HW6.Main">
     <configuration name="HW2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW2.Main" />
       <module name="untitled" />
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW1.Main" />
+    <configuration name="HW6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW6.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW1.*" />
+          <option name="PATTERN" value="HW6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW6.Main" />
         <item itemvalue="Application.HW5.Main" />
         <item itemvalue="Application.HW4.Main" />
         <item itemvalue="Application.HW3.Main" />
         <item itemvalue="Application.HW2.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698079353992</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="HW5">
+      <created>1698582569411</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698582569411</updated>
+    </task>
+    <task id="LOCAL-00009" summary="HW5">
+      <created>1698582588048</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698582588048</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,6 +199,7 @@
     <MESSAGE value="HW2" />
     <MESSAGE value="HW3" />
     <MESSAGE value="HW4" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW4" />
+    <MESSAGE value="HW5" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW5" />
   </component>
 </project>

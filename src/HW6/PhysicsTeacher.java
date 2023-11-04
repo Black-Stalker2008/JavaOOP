@@ -1,0 +1,15 @@
+package HW6;
+
+public class PhysicsTeacher extends Teacher {
+    protected PhysicsTeacher(String firstName, String lastName) {
+        super(firstName, lastName);
+    }
+    @Override
+    public String toString() {
+        return "PhysicsTeacher{" +
+                "firstName='" + firstName + '\'' +
+                ", lastName='" + lastName + '\'' +
+                '}';
+    }
+}
+//  Наследуемый класс может заменить родительский
